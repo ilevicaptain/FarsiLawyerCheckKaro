@@ -2,5 +2,5 @@ pandas
 numpy
 requests
 plotly
-streamlit
+streamlit==1.33.0
 altair==4.2.2
